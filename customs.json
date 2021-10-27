@@ -1,0 +1,11 @@
+{
+    "elements": {},
+    "attributes": {
+        "th:text": {
+            "context": "h3"
+        },
+        "th:href": {
+            "context": "a"
+        }
+    }
+}
